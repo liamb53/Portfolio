@@ -1,0 +1,67 @@
+html, body {
+    margin: 0;
+
+    padding: 0;
+}
+
+.title{
+    font-family: "Georgia", Times, serif;
+  
+    color:#f5f5f5;
+    text-align: center;
+    font-size: 40pt;
+   
+   
+    
+}
+.background{
+   background-color: #808080;
+     padding:90px;
+    
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #808080;
+    font-family: "Georgia", Times, serif;
+    color:#f5f5f5;
+    font-size: 12pt;
+     position: fixed;
+    width: 100%;
+}
+
+li {
+    float: left;
+    padding 30px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+img.resize {
+    width:400px;
+    height: auto;
+}

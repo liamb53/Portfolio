@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>My Portfolio</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#report">Reports</a></li>
+  <li><a href="#SMP">Social Media Posts</a></li>
+  <li><a href="#IT">Informartion Technology</a></li>
+  <li><a href="#contact">Contact Me</a></li>
+</ul>
+<div class = 'background'>
+<div class ='title'> Liam Buttery's Portfolio</div>
+</div>
+
+
+
+
+<div class = "home"> 
+<img src="city.jpg" alt="city">
+</div>
+
